@@ -1,0 +1,19 @@
+algoritmo "Potenciacao"
+var
+   a, b, r, i: inteiro
+inicio
+   escreva("Digite o valor da base (a): ")
+   leia(a)
+   escreva("Digite o valor do expoente (b): ")
+   leia(b)
+
+   r <- 1
+   i <- 0
+
+   enquanto i < b faca
+      r <- r * a
+      i <- i + 1
+   fimenquanto
+
+   escreva("Resultado da potenciação: ", r)
+fimalgoritmo
