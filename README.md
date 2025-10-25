@@ -1,4 +1,4 @@
-# Portfólio - Algoritmos e Programação Estruturada
+# Algoritmos e Programação Estruturada
 
 ### Exercício 1 - Maioridade
 Algoritmo que solicita a idade do usuário e informa se ele é maior ou menor de idade.
